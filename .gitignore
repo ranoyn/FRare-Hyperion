@@ -1,0 +1,20 @@
+# User observations, prediction keys, saved individuals and personal images.
+/*.json
+/*.csv
+/予測キー設定.json
+/予測キー記憶.json
+/保存個体/
+/ドーピングメモ/
+*.tmp
+*.new.zip
+build-*.exe
+
+# Game-derived tables and portrait assets: redistribution permission not verified.
+/data/
+# Built executable and release archives are not part of the source-only package.
+*.exe
+*.pdb
+*.zip
+*.bin
+*.cia
+*.3gx
